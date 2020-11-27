@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1573220287 source:c:\users\foysa\documents\c++ codes\c++ project\destructor\main.cpp
+	<iostream>
+	"mydestructor.h"
+
+1573220544 c:\users\foysa\documents\c++ codes\c++ project\destructor\mydestructor.h
+
